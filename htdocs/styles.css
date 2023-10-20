@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+    padding: 0px;
+    margin: 0px;
+}
+
+.centered {
+    margin: 0px auto;
+}
+
+.main {
+    width: 60%;
+    background-color: antiquewhite;
+    height: 97.5vh;
+    padding: 10px;
+}
+
+#form-div {
+    width: 75%;
+}
+
+input {
+    box-sizing: border-box;
+    width: 100%;
+    height: 35px;
+    margin: 5px 0px;
+    padding: 5px;
+
+    border: 1px solid gray;
+    border-radius: 3px;
+
+    background-color: aliceblue;
+    font-size: 18px;
+}
+
+#title {
+    font-size: 45px;
+    font-family: 'Arial';
+    text-align: center;
+}
